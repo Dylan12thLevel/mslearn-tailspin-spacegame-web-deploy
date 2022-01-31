@@ -16,7 +16,7 @@ stages:
       - npm
 
     variables:
-      wwwrootDir: 'Dylan12thlevel/wwwroot'
+      wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
       dotnetSdkVersion: '5.x'
 
     steps:
